@@ -20,10 +20,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to!+;+My+Github+Accont;" />
 </h1>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bekhzoduz&theme=github_dark" alt="info">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temirovuz&theme=github_dark" alt="info">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bekhzoduz&show_icons=true&locale=en&layout=compact" alt="bekhzoduz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekhzoduz&show_icons=true&locale=en" alt="bekhzoduz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temirovuz&show_icons=true&locale=en" alt="temirovuz" /></p>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekhzod&theme=github_dark&layout=compact)](https://wakatime.com/@bekhzod) -->
 
