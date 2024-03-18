@@ -8,11 +8,11 @@
 </h1>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temirovuz&theme=github_dark" alt="info">
-<!--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temirovuz&show_icons=true&locale=en&layout=compact" alt="temirovuz" /></p>
-<!
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temirovuz&show_icons=true&locale=en" alt="temirovuz" /></p>
--->
+
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekhzod&theme=github_dark&layout=compact)](https://wakatime.com/@bekhzod) -->
 
 
