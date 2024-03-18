@@ -8,7 +8,7 @@
 </h1>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temirovuz&theme=github_dark" alt="info">
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temirovuz&hide=contribs,prs)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temirovuz&show_icons=true&locale=en&layout=compact" alt="temirovuz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temirovuz&show_icons=true&locale=en" alt="temirovuz" /></p>
