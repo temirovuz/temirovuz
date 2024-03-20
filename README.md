@@ -16,7 +16,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/temirovuz?theme=wtf&font=ABeeZee&ext=heatmap)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhroruz" alt="akhroruz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=temirovuz" alt="temirovuz" /></p>
 
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekhzod&theme=github_dark&layout=compact)](https://wakatime.com/@bekhzod) -->
