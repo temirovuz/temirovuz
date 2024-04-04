@@ -13,9 +13,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temirovuz&show_icons=true&locale=en&layout=compact" alt="temirovuz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temirovuz&show_icons=true&locale=en" alt="temirovuz" /></p>
-
+<div align="center" display="flex">
 ![LeetCode Stats](https://leetcard.jacoblin.cool/temirovuz?theme=wtf&font=ABeeZee&ext=heatmap) <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=temirovuz" alt="temirovuz" />
-
+</div>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekhzod&theme=github_dark&layout=compact)](https://wakatime.com/@bekhzod) -->
 
