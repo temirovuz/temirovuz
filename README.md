@@ -6,9 +6,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to!+;+My+Github+Accont;" />
 </h1>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temirovuz&theme=github_dark" alt="info">
-
+<div align=center>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temirovuz&theme=github_dark" alt="info">
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temirovuz&show_icons=true&locale=en&layout=compact" alt="temirovuz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temirovuz&show_icons=true&locale=en" alt="temirovuz" /></p>
