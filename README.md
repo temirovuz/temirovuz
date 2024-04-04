@@ -14,6 +14,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temirovuz&show_icons=true&locale=en" alt="temirovuz" /></p>
 <div align="center" display="flex">
+  <hr>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/temirovuz?theme=wtf&font=ABeeZee&ext=heatmap) <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=temirovuz" alt="temirovuz" />
 </div>
 
