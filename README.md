@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temirovuz" alt="temirovuz" /></a> </p>
 
 
-[![Bekhzod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=temirovuz&theme=github_dark&layout=compact)](https://wakatime.com/@temirovuz)
+[![Temirov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=temirovuz&theme=github_dark&layout=compact)](https://wakatime.com/@temirovuz)
 
 <div align=center>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temirovuz&theme=github_dark" alt="info">
