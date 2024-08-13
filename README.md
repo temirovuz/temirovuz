@@ -23,7 +23,7 @@
 
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekhzod&theme=github_dark&layout=compact)](https://wakatime.com/@bekhzod) -->
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temirovuz" alt="temirovuz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/Temirov"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
