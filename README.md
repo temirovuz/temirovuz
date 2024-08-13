@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to!+;+My+Github+Accont;" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=temirovuz&label=Profile%20views&color=0e75b6&style=flat" alt="temirovuz" /> </p>
+
 
 <div align=center>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temirovuz&theme=github_dark" alt="info">
@@ -57,4 +57,4 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=temirovuz&label=Profile%20views&color=0e75b6&style=flat" alt="temirovuz" /> </p>
