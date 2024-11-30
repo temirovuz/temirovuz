@@ -46,7 +46,7 @@
 </div>
 
 <hr/>
-<div id="badges">
+<!-- <div id="badges">
   <a href="https://t.me/Temirov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -56,6 +56,6 @@
   <a href="https://www.instagram.com/dev_temirov/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</div>
+</div> -->
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temirovuz&label=Profile%20views&color=0e75b6&style=flat" alt="temirovuz" /> </p>
