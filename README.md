@@ -1,57 +1,67 @@
-<!--<div id="header" align="center">
+<!--<div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 -->
 
-<h1 align="center">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to!+;+My+Github+Accont;" />
 </h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temirovuz" alt="temirovuz" /></a> </p>
 
 
-<div align=center>
+<div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temirovuz&theme=github_dark" alt="info">
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temirovuz&show_icons=true&locale=en&layout=compact" alt="temirovuz" /></p>
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=temirovuz&show_icons=true&locale=en&layout=compact" alt="temirovuz" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temirovuz&show_icons=true&locale=en" alt="temirovuz" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/temirovuz?theme=wtf&font=ABeeZee&ext=heatmap) 
-<br>
+<hr>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=temirovuz" alt="temirovuz" />
 
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekhzod&theme=github_dark&layout=compact)](https://wakatime.com/@bekhzod) -->
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://t.me/Temirov"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://leetcode.com/temirovuz/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
+
+<hr>
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-      <img src="https://skillicons.dev/icons?i=git,python,django,fastapi,cpp,html,css,mongodb,mysql,postgres,sqlite,postman,aws,bootstrap,docker,github,linux, redis" />
-</p>
+# 💻 Tech Stack:
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+![Async](https://img.shields.io/badge/Async-Programming-%2300C7B7?style=for-the-badge)
+![Aiogram](https://img.shields.io/badge/Aiogram-2C2F73?style=for-the-badge&logo=telegram&logoColor=white)
 
 
-<hr/>
-<!-- <div id="badges">
-  <a href="https://t.me/Temirov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://leetcode.com/temirovuz/">
-    <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
-  <a href="https://www.instagram.com/dev_temirov/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div> -->
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temirovuz&label=Profile%20views&color=0e75b6&style=flat" alt="temirovuz" /> </p>
