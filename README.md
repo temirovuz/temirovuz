@@ -37,15 +37,6 @@
       <img src="https://skillicons.dev/icons?i=git,python,django,fastapi,cpp,html,css,mongodb,mysql,postgres,sqlite,postman,aws,bootstrap,docker,github,linux, redis" />
 </p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-   <img alt="snake eating my contributions" src="https://github.com/temirovuz/temirovuz/blob/output/github-contribution-grid-snake.svg" />
-
-  
-  <br/><br/><br/>
-</div>
-
 
 
 
