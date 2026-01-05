@@ -18,8 +18,6 @@
  
 <hr>
 
-<hr>
-
 
 # 💻 Tech Stack:
 
